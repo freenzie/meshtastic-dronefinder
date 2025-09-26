@@ -12,3 +12,4 @@ LINK:
 2. SEEED STUDIO NRF52840 INFO = https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html
 3. SEEED STUDIO Wio-SX1262 for XIAO INFO https://www.seeedstudio.com/Wio-SX1262-for-XIAO-p-6379.html
 4. SEEED STUDIO L76K GNSS Module for Seeed Studio XIAO GPS INFO https://www.seeedstudio.com/L76K-GNSS-Module-for-Seeed-Studio-XIAO-p-5864.html
+5. Wio Tracker L1 Pro for Meshtastic Enclosure Casing https://www.printables.com/model/1355571-wio-tracker-l1-pro-for-meshtastic-enclosure-casing/files
